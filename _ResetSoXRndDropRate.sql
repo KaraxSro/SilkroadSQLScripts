@@ -202,3 +202,7 @@ BEGIN CATCH
 	ROLLBACK TRAN
 END CATCH
 GO
+/*
+-- Usage
+EXEC _ResetSoXRndDropRate
+*/
